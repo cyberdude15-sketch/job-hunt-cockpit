@@ -114,6 +114,7 @@ const SEARCH_BOARDS = [
     tag: "PRIMARY",
     desc: "Second cleared-only board. Click the \"Date\" sort header on landing to surface freshest postings — date filter isn't URL-addressable.",
     links: [
+      { label: "Senior Network Engineer", url: "https://www.clearedjobs.net/jobs/?q=senior+network+engineer", filter: "sort:new" },
       { label: "Network Engineer", url: "https://www.clearedjobs.net/jobs/?q=network+engineer", filter: "sort:new" },
       { label: "Network Architect", url: "https://www.clearedjobs.net/jobs/?q=network+architect", filter: "sort:new" },
     ],
